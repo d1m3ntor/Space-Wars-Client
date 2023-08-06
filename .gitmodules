@@ -1,0 +1,3 @@
+[submodule "Assets/Shared"]
+	path = Assets/Shared
+	url = https://github.com/d1m3ntor/Space-Wars-Shared
